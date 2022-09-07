@@ -1,2 +1,2 @@
-#!/ova/onfu
-#!/bin/bashalias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'" nyvnf ebg13="ge 'N-Mn-m' 'A-MN-Za-mn-z'"
+#!/bin/bash
+#!/ova/onfunyvnf ebg13="ge 'N-Mn-m' 'A-MN-Za-mn-z'" alias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"
